@@ -1,5 +1,7 @@
-Porject Structure
+Nokia Snake Game
 ---------------------
+
+# Project Structure
 main.py          # Game launcher
 snake.py         # Snake logic
 food.py          # Food placement
